@@ -1,3 +1,3 @@
 # Toyota HTML email
 
-[https://josefzacek.github.io/toyota-email/](https://josefzacek.github.io/toyota-email/)
+Live version available at [http://toyota.josefzacek.com](http://toyota.josefzacek.com)
